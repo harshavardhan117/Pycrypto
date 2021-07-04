@@ -1,4 +1,4 @@
-# coin_market app
+# Pycrypto app
 
 This app requests coin marketcap api and gets the required data of crypto currencies. The required data is saved in database and fetched using sqlite3. Steps to follow are:
 
